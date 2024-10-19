@@ -1,4 +1,4 @@
 # Instant-News
 this is my project 1
 <br>
-developer = akshat srivastava
+developer = akshat srivastava change in local
